@@ -14,7 +14,7 @@
 ## RDSの構築
 ![image5](/images04/RDSの構築①.png) 
 
-![image6](/images04/RDSの構築②.png) 
+![image6](/images04/RDSの構築②改.png) 
 
 ## RDSのセキュリティグループ
 ![image7](/images04/RDSのセキュリティグループ①.png) 

@@ -9,7 +9,7 @@
 ![image3](/images04/EC2の構築②.png) 
 
 ・EC2セキュリティグループ
-![image4](/images04/EC2セキュリティグループ.png) 
+![image4](/images04/EC2セキュリティグループ改.png) 
 
 ## RDSの構築
 ![image5](/images04/RDSの構築①改.png) 

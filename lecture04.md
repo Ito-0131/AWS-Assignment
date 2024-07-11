@@ -21,8 +21,13 @@
 
 ![image8](/images04/RDSのセキュリティグループ②.png) 
 
+## RDSのサブネット証跡
+![image9](/images04/RDSのサブネット証跡①.png) 
+
+![image10](/images04/RDSのサブネット証跡②.png) 
+
 ## EC2への接続とEC2からRDSへの接続
-![image9](/images04/EC2への接続とEC2からRDSへの接続.png) 
+![image11](/images04/EC2への接続とEC2からRDSへの接続.png) 
 
 ### 第四回課題に取り組んでの感想
 最初はEC2への接続が上手くいかなかった原因が作成時のネットワーク関連設定の項目でVPCがデフォルトのままだったり、

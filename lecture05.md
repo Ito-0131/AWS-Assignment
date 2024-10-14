@@ -10,7 +10,7 @@
 ![image3](/image05/NginxとPuma、UnixSocketを組み合わせての動作確認.png)  
 
 ## 組み込みサーバとUnix Socketを使ったRailsアプリの動作確認
-![image4](/image05/組み込みサーバとUnix Socketを使ったRailsアプリの動作確認.png)  
+![image4](/image05/組み込みサーバとUnixSocketを使ったRailsアプリの動作確認.png)  
 
 ## S3バケットの作成
 ![image5](/image05/S3バケットの作成.png)  

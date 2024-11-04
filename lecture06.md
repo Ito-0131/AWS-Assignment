@@ -14,30 +14,30 @@ Zulu Timeで「2024年11月3日09時45分09秒」にリクエストが完了し�
 "awsRegion": "ap-northeast-1"  
 ⇒ログインしたAWSリージョンを示す。
 
-![image1](/AWS-Assignment/images06/最後にAWSを利用した記録①.png)  
+![image1](/images06/最後にAWSを利用した記録①.png)  
 
-![image2](/AWS-Assignment/images06/最後にAWSを利用した記録②.png)  
+![image2](/images06/最後にAWSを利用した記録②.png)  
 
 ## CloudWatchのアラーム
 
 通知方法：Amazon SNSを利用したメール通知)  
 トピック名：ALB-Unhealthy-Targets-Alert  
-![image3](/AWS-Assignment/images06/作成したAmazon-SNS.png)
+![image3](/images06/作成したAmazon-SNS.png)
 
 設定したアラームの詳細画面  
-![image7](/AWS-Assignment/images06/CloudWatchのアラーム詳細画面.png)
+![image7](/images06/CloudWatchのアラーム詳細画面.png)
 
 ・Railsアプリケーションが使えない状態でのCloudWatchのアラート  
-![image4](/AWS-Assignment/images06/Railsアプリケーションが使えない状態でのCloudWatchのアラート.png)  
+![image4](/images06/Railsアプリケーションが使えない状態でのCloudWatchのアラート.png)  
 
 ・Railsアプリケーションが使える状態でのCloudWatchのアラート  
-![image5](/AWS-Assignment/images06/Railsアプリケーションが使える状態でのCloudWatchのアラート.png)  
+![image5](/images06/Railsアプリケーションが使える状態でのCloudWatchのアラート.png)  
 
 AWS利用料の見積もり  
 URL：https://calculator.aws/#/estimate?id=1d2ea84cf711f2181ffe75ccc858ea8987e9e852
 
 10月の利用料金  
-![image6](/AWS-Assignment/images06/AWS10月の利用料.png)  
+![image6](/images06/AWS10月の利用料.png)  
 
 ・無料枠に収まっているかどうか  
 ⇒アカウント作成から時間が経っているため、無料枠ではない

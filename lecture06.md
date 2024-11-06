@@ -34,10 +34,13 @@ Zulu Timeで「2024年11月3日09時45分09秒」にリクエストが完了し�
 ![image5](/images06/Railsアプリケーションが使える状態でのCloudWatchのアラート.png)  
 
 AWS利用料の見積もり  
-URL：https://calculator.aws/#/estimate?id=1d2ea84cf711f2181ffe75ccc858ea8987e9e852
+URL：https://calculator.aws/#/estimate?id=70978949596359a8875d0c62a70009974c1b104f
 
 10月の利用料金  
 ![image6](/images06/AWS10月の利用料.png)  
+
+10月の利用料金の内、EC2分
+![image8](/image06/AWS10月の利用料(EC2).png)
 
 ・無料枠に収まっているかどうか  
 ⇒アカウント作成から時間が経っているため、無料枠ではない

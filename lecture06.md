@@ -40,7 +40,7 @@ URL：https://calculator.aws/#/estimate?id=70978949596359a8875d0c62a70009974c1b1
 ![image6](/images06/AWS10月の利用料.png)  
 
 10月の利用料金の内、EC2分  
-![image8](/image06/AWS10月の利用料-EC2.png)
+![image8](/images06/AWS10月の利用料-EC2.png)
 
 ・無料枠に収まっているかどうか  
 ⇒アカウント作成から時間が経っているため、無料枠ではない

@@ -34,7 +34,7 @@ Zulu Timeで「2024年11月3日09時45分09秒」にリクエストが完了し�
 ![image5](/images06/Railsアプリケーションが使える状態でのCloudWatchのアラート.png)  
 
 AWS利用料の見積もり  
-URL：https://calculator.aws/#/estimate?id=12e937d59546bc2c9d2ba75a3b1b9cfeb11c4494
+URL：https://calculator.aws/#/estimate?id=35385eb4ee2967a64d08ff2c21cc08c349df1ca5
 
 10月の利用料金  
 ![image6](/images06/AWS10月の利用料.png)  
